@@ -1,1 +1,1 @@
-printf("Hello World");
+printf("а нет иди нахуй");
